@@ -1,0 +1,29 @@
+body{
+    background-color: teal;
+    
+
+}
+.container{
+    width: 80%;
+    margin-inline: auto;
+}
+
+.coffee{
+    width: 200px;
+    float: right;
+    
+}
+
+.text{
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.heading{
+    color: khaki;
+    
+    
+}
+.span{
+    
+}
